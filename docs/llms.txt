@@ -1,0 +1,10 @@
+# CS50x Hub
+> Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for Harvard CS50x students.
+
+## Core Documentation & Resources
+- Homepage: https://cs50x.com/
+- Curriculum: https://cs50x.com/curriculum/index.html
+- Problem Sets: https://cs50x.com/problem-sets/index.html
+- Developer Guides: https://cs50x.com/guides/index.html
+- Academic Honesty: https://cs50x.com/ethics/index.html
+- About Sebastien Rousseau: https://cs50x.com/about/index.html

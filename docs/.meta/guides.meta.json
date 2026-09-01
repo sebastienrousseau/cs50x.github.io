@@ -1,0 +1,17 @@
+{
+  "author": "Sebastien Rousseau",
+  "banner": "https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp",
+  "banner_alt": "CS50x Hub — Harvard CS50 Complete Companion & Study Guides",
+  "date": "2026-09-01",
+  "description": "Practical engineering guides on diagnosing segmentation faults, memory leaks, and pointer arithmetic.",
+  "keywords": "valgrind guide, GDB tutorial, C pointers memory diagram, Big O cheatsheet",
+  "language": "en-GB",
+  "layout": "page",
+  "logo": "https://cloudcdn.pro/cmn/v1/logos/cmn.svg",
+  "name": "CS50x Hub",
+  "permalink": "https://cs50x.com/guides/index.html",
+  "reading_time": 1,
+  "short_name": "cs50x",
+  "title": "Developer Guides: Valgrind, GDB & Memory Management",
+  "word_count": 195
+}

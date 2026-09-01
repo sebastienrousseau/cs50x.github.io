@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "description": "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for Harvard CS50x students.",
+  "display": "standalone",
+  "name": "CS50x Hub",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "cs50x",
+  "start_url": ".",
+  "theme_color": null
+}

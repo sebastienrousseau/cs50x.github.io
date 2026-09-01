@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS50x Hub: Harvard CS50 Complete Companion &amp; Study Guides</title>
+    <link>https://cs50x.com/</link>
+    <description>Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for Harvard CS50x students.</description>
+    <atom:link href="http://127.0.0.1:8000/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <item>
+      <title>About Sebastien Rousseau & CS50x Hub</title>
+      <link>http://127.0.0.1:8000/about/</link>
+      <description>Background and credentials of Sebastien Rousseau, creator of CS50x Hub and systems architect.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/about/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Academic Honesty & Ethical Collaboration Policy</title>
+      <link>http://127.0.0.1:8000/ethics/</link>
+      <description>Guidelines on ethical study habits and adherence to Harvard CS50&apos;s Academic Honesty policy.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/ethics/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Accessibility Statement: WCAG 2.2 Level AAA Compliance</title>
+      <link>http://127.0.0.1:8000/accessibility/</link>
+      <description>Accessibility statement declaring WCAG 2.2 Level AAA compliance.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/accessibility/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>CS50x Curriculum: Comprehensive Week-by-Week Syllabus</title>
+      <link>http://127.0.0.1:8000/curriculum/</link>
+      <description>Detailed breakdowns of all 11 weeks of Harvard CS50x from computational thinking in C to Python, SQL, and Flask.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/curriculum/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Changelog & Version History</title>
+      <link>http://127.0.0.1:8000/changelog/</link>
+      <description>Release history for CS50x Hub starting at v0.0.1.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/changelog/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Contact & Community Feedback</title>
+      <link>http://127.0.0.1:8000/contact/</link>
+      <description>Get in touch with suggestions or feedback on CS50x Hub.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/contact/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Contributing to CS50x Hub</title>
+      <link>http://127.0.0.1:8000/contributing/</link>
+      <description>How to contribute study guides, memory diagrams, and corrections.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/contributing/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Developer Guides: Valgrind, GDB & Memory Management</title>
+      <link>http://127.0.0.1:8000/guides/</link>
+      <description>Practical engineering guides on diagnosing segmentation faults, memory leaks, and pointer arithmetic.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/guides/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Frequently Asked Questions (FAQ): CS50x Hub</title>
+      <link>http://127.0.0.1:8000/faqs/</link>
+      <description>Answers to common questions about Harvard CS50x certificate requirements, pace, and tools.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/faqs/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Made with Static Site Generator (SSG)</title>
+      <link>http://127.0.0.1:8000/made-with-ssg/</link>
+      <description>Details on native Rust static site generation.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/made-with-ssg/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Offline Access: CS50x Hub</title>
+      <link>http://127.0.0.1:8000/offline/</link>
+      <description>Service worker offline fallback page.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/offline/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Page Not Found (404) | CS50x Hub</title>
+      <link>http://127.0.0.1:8000/404/</link>
+      <description>The requested study guide page could not be found.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/404/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Privacy Policy: Zero-Cookie Architecture</title>
+      <link>http://127.0.0.1:8000/privacy/</link>
+      <description>Privacy policy declaring zero tracking cookies and completely local computation.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/privacy/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Problem Set Guidance & Conceptual Strategies</title>
+      <link>http://127.0.0.1:8000/problem-sets/</link>
+      <description>Conceptual strategies, algorithmic pseudocode, and debugging approaches for CS50x problem sets.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/problem-sets/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Terms of Use & Open Source License</title>
+      <link>http://127.0.0.1:8000/terms/</link>
+      <description>Terms governing CS50x Hub under Apache-2.0 and MIT licenses.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/terms/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+    <item>
+      <title>Thank You | CS50x Hub</title>
+      <link>http://127.0.0.1:8000/thanks/</link>
+      <description>Thank you for your message.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/thanks/</guid>
+      <pubDate></pubDate>
+      <author>Sebastien Rousseau</author>
+      <enclosure url="https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp" type="image/webp" length="0"/>
+    </item>
+  </channel>
+</rss>

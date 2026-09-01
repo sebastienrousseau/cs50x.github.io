@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MySsgSite</title>
+  <link href="http://127.0.0.1:8000/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://127.0.0.1:8000"/>
+  <id>http://127.0.0.1:8000</id>
+  <updated></updated>
+  <entry>
+    <title>Page Not Found (404) | CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/404/"/>
+    <id>http://127.0.0.1:8000/404/</id>
+    <updated></updated>
+    <published></published>
+    <summary>The requested study guide page could not be found.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>About Sebastien Rousseau &amp; CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/about/"/>
+    <id>http://127.0.0.1:8000/about/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Background and credentials of Sebastien Rousseau, creator of CS50x Hub and systems architect.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Accessibility Statement: WCAG 2.2 Level AAA Compliance</title>
+    <link href="http://127.0.0.1:8000/accessibility/"/>
+    <id>http://127.0.0.1:8000/accessibility/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Accessibility statement declaring WCAG 2.2 Level AAA compliance.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Changelog &amp; Version History</title>
+    <link href="http://127.0.0.1:8000/changelog/"/>
+    <id>http://127.0.0.1:8000/changelog/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Release history for CS50x Hub starting at v0.0.1.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Contact &amp; Community Feedback</title>
+    <link href="http://127.0.0.1:8000/contact/"/>
+    <id>http://127.0.0.1:8000/contact/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Get in touch with suggestions or feedback on CS50x Hub.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Contributing to CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/contributing/"/>
+    <id>http://127.0.0.1:8000/contributing/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to contribute study guides, memory diagrams, and corrections.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>CS50x Curriculum: Comprehensive Week-by-Week Syllabus</title>
+    <link href="http://127.0.0.1:8000/curriculum/"/>
+    <id>http://127.0.0.1:8000/curriculum/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Detailed breakdowns of all 11 weeks of Harvard CS50x from computational thinking in C to Python, SQL, and Flask.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Academic Honesty &amp; Ethical Collaboration Policy</title>
+    <link href="http://127.0.0.1:8000/ethics/"/>
+    <id>http://127.0.0.1:8000/ethics/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Guidelines on ethical study habits and adherence to Harvard CS50&apos;s Academic Honesty policy.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Frequently Asked Questions (FAQ): CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/faqs/"/>
+    <id>http://127.0.0.1:8000/faqs/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Answers to common questions about Harvard CS50x certificate requirements, pace, and tools.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Developer Guides: Valgrind, GDB &amp; Memory Management</title>
+    <link href="http://127.0.0.1:8000/guides/"/>
+    <id>http://127.0.0.1:8000/guides/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Practical engineering guides on diagnosing segmentation faults, memory leaks, and pointer arithmetic.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Made with Static Site Generator (SSG)</title>
+    <link href="http://127.0.0.1:8000/made-with-ssg/"/>
+    <id>http://127.0.0.1:8000/made-with-ssg/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Details on native Rust static site generation.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Offline Access: CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/offline/"/>
+    <id>http://127.0.0.1:8000/offline/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Service worker offline fallback page.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Privacy Policy: Zero-Cookie Architecture</title>
+    <link href="http://127.0.0.1:8000/privacy/"/>
+    <id>http://127.0.0.1:8000/privacy/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Privacy policy declaring zero tracking cookies and completely local computation.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Problem Set Guidance &amp; Conceptual Strategies</title>
+    <link href="http://127.0.0.1:8000/problem-sets/"/>
+    <id>http://127.0.0.1:8000/problem-sets/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Conceptual strategies, algorithmic pseudocode, and debugging approaches for CS50x problem sets.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Terms of Use &amp; Open Source License</title>
+    <link href="http://127.0.0.1:8000/terms/"/>
+    <id>http://127.0.0.1:8000/terms/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Terms governing CS50x Hub under Apache-2.0 and MIT licenses.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+  <entry>
+    <title>Thank You | CS50x Hub</title>
+    <link href="http://127.0.0.1:8000/thanks/"/>
+    <id>http://127.0.0.1:8000/thanks/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Thank you for your message.</summary>
+    <author><name>Sebastien Rousseau</name></author>
+  </entry>
+</feed>

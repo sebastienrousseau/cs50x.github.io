@@ -1,0 +1,20 @@
+# Generated site-level configuration for cs50x.github.io
+site_name = "CS50x Hub"
+site_title = "CS50x Hub | Harvard CS50 Complete Companion & Study Guides"
+site_description = "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for CS50x students."
+base_url = "https://cs50x.com"
+language = "en-GB"
+
+content_dir = "_posts"
+template_dir = "_layouts"
+output_dir = "docs"
+
+[agents]
+agents_txt = true
+ai_plugin = true
+
+[agents.mcp]
+enabled = true
+
+[edge_headers]
+targets = ["netlify", "cloudflare", "vercel"]

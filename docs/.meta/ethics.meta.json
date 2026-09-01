@@ -1,0 +1,17 @@
+{
+  "author": "Sebastien Rousseau",
+  "banner": "https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp",
+  "banner_alt": "CS50x Hub — Harvard CS50 Complete Companion & Study Guides",
+  "date": "2026-09-01",
+  "description": "Guidelines on ethical study habits and adherence to Harvard CS50's Academic Honesty policy.",
+  "keywords": "academic honesty, CS50 ethics policy",
+  "language": "en-GB",
+  "layout": "page",
+  "logo": "https://cloudcdn.pro/cmn/v1/logos/cmn.svg",
+  "name": "CS50x Hub",
+  "permalink": "https://cs50x.com/ethics/index.html",
+  "reading_time": 1,
+  "short_name": "cs50x",
+  "title": "Academic Honesty & Ethical Collaboration Policy",
+  "word_count": 73
+}

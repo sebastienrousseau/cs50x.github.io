@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+  <loc>http://127.0.0.1:8000/404/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Page Not Found (404) | CS50x Hub</news:title>
+    <news:keywords>404 not found</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/about/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>About Sebastien Rousseau & CS50x Hub</news:title>
+    <news:keywords>Sebastien Rousseau, CS50x creator</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/accessibility/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Accessibility Statement: WCAG 2.2 Level AAA Compliance</news:title>
+    <news:keywords>accessibility statement</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/changelog/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Changelog & Version History</news:title>
+    <news:keywords>cs50x changelog, version history</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/contact/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Contact & Community Feedback</news:title>
+    <news:keywords>contact cs50x</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/contributing/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Contributing to CS50x Hub</news:title>
+    <news:keywords>contribute cs50x, open source education</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/curriculum/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>CS50x Curriculum: Comprehensive Week-by-Week Syllabus</news:title>
+    <news:keywords>CS50 syllabus, CS50 weeks breakdown, CS50 coursework</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/ethics/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Academic Honesty & Ethical Collaboration Policy</news:title>
+    <news:keywords>academic honesty, CS50 ethics policy</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/faqs/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Frequently Asked Questions (FAQ): CS50x Hub</news:title>
+    <news:keywords>CS50x FAQ, Harvard CS50 certificate questions</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/guides/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Developer Guides: Valgrind, GDB & Memory Management</news:title>
+    <news:keywords>valgrind guide, GDB tutorial, C pointers memory diagram, Big O cheatsheet</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/made-with-ssg/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Made with Static Site Generator (SSG)</news:title>
+    <news:keywords>Static Site Generator, SSG</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/offline/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Offline Access: CS50x Hub</news:title>
+    <news:keywords>offline cs50x</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/privacy/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Privacy Policy: Zero-Cookie Architecture</news:title>
+    <news:keywords>cs50x privacy policy</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/problem-sets/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Problem Set Guidance & Conceptual Strategies</news:title>
+    <news:keywords>CS50 problem sets, Tideman strategy, Speller hash table, Filter image processing</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/terms/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Terms of Use & Open Source License</news:title>
+    <news:keywords>terms of use</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/thanks/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>Sebastien Rousseau</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Thank You | CS50x Hub</news:title>
+    <news:keywords>thank you</news:keywords>
+  </news:news>
+</url>
+</urlset>

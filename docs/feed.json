@@ -1,0 +1,249 @@
+{
+  "feed_url": "http://127.0.0.1:8000/feed.json",
+  "home_page_url": "http://127.0.0.1:8000/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "The requested study guide page could not be found.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/404/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Page Not Found (404) | CS50x Hub",
+      "url": "http://127.0.0.1:8000/404/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Background and credentials of Sebastien Rousseau, creator of CS50x Hub and systems architect.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/about/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "About Sebastien Rousseau & CS50x Hub",
+      "url": "http://127.0.0.1:8000/about/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Accessibility statement declaring WCAG 2.2 Level AAA compliance.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/accessibility/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Accessibility Statement: WCAG 2.2 Level AAA Compliance",
+      "url": "http://127.0.0.1:8000/accessibility/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Release history for CS50x Hub starting at v0.0.1.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/changelog/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Changelog & Version History",
+      "url": "http://127.0.0.1:8000/changelog/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Get in touch with suggestions or feedback on CS50x Hub.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/contact/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Contact & Community Feedback",
+      "url": "http://127.0.0.1:8000/contact/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "How to contribute study guides, memory diagrams, and corrections.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/contributing/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Contributing to CS50x Hub",
+      "url": "http://127.0.0.1:8000/contributing/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Detailed breakdowns of all 11 weeks of Harvard CS50x from computational thinking in C to Python, SQL, and Flask.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/curriculum/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "CS50x Curriculum: Comprehensive Week-by-Week Syllabus",
+      "url": "http://127.0.0.1:8000/curriculum/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Guidelines on ethical study habits and adherence to Harvard CS50's Academic Honesty policy.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/ethics/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Academic Honesty & Ethical Collaboration Policy",
+      "url": "http://127.0.0.1:8000/ethics/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Answers to common questions about Harvard CS50x certificate requirements, pace, and tools.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/faqs/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Frequently Asked Questions (FAQ): CS50x Hub",
+      "url": "http://127.0.0.1:8000/faqs/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Practical engineering guides on diagnosing segmentation faults, memory leaks, and pointer arithmetic.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/guides/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Developer Guides: Valgrind, GDB & Memory Management",
+      "url": "http://127.0.0.1:8000/guides/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Details on native Rust static site generation.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/made-with-ssg/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Made with Static Site Generator (SSG)",
+      "url": "http://127.0.0.1:8000/made-with-ssg/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Service worker offline fallback page.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/offline/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Offline Access: CS50x Hub",
+      "url": "http://127.0.0.1:8000/offline/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Privacy policy declaring zero tracking cookies and completely local computation.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/privacy/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Privacy Policy: Zero-Cookie Architecture",
+      "url": "http://127.0.0.1:8000/privacy/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Conceptual strategies, algorithmic pseudocode, and debugging approaches for CS50x problem sets.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/problem-sets/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Problem Set Guidance & Conceptual Strategies",
+      "url": "http://127.0.0.1:8000/problem-sets/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Terms governing CS50x Hub under Apache-2.0 and MIT licenses.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/terms/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Terms of Use & Open Source License",
+      "url": "http://127.0.0.1:8000/terms/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Sebastien Rousseau"
+        }
+      ],
+      "content_html": "Thank you for your message.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "http://127.0.0.1:8000/thanks/",
+      "language": "en-GB",
+      "tags": [],
+      "title": "Thank You | CS50x Hub",
+      "url": "http://127.0.0.1:8000/thanks/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "MySsgSite",
+  "version": "https://jsonfeed.org/version/1.1"
+}
