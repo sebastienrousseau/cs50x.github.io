@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cs50x.com/offline/index.html/sitemap.xml

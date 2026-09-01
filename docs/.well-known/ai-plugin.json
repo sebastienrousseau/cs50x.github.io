@@ -1,0 +1,18 @@
+{
+  "api": {
+    "is_user_authenticated": false,
+    "type": "openapi",
+    "url": "https://cs50x.com/openapi.yaml"
+  },
+  "auth": {
+    "type": "none"
+  },
+  "contact_email": "support@cs50x.com",
+  "description_for_human": "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for CS50x students.",
+  "description_for_model": "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for CS50x students.",
+  "legal_info_url": "https://cs50x.com/legal",
+  "logo_url": "https://cs50x.com/favicon.ico",
+  "name_for_human": "CS50x Hub | Harvard CS50 Complete Companion & Study Guides",
+  "name_for_model": "cs50x_hub",
+  "schema_version": "v1"
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-09-01",
+    "description": "Background and credentials of Sebastien Rousseau, creator of CS50x Hub and systems architect.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "About Sebastien Rousseau & CS50x Hub",
+    "url": "http://127.0.0.1:8000/about/",
+    "wordCount": 68
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Accessibility statement declaring WCAG 2.2 Level AAA compliance.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Accessibility Statement: WCAG 2.2 Level AAA Compliance",
+    "url": "http://127.0.0.1:8000/accessibility/",
+    "wordCount": 27
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Release history for CS50x Hub starting at v0.0.1.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Changelog & Version History",
+    "url": "http://127.0.0.1:8000/changelog/",
+    "wordCount": 56
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Get in touch with suggestions or feedback on CS50x Hub.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Contact & Community Feedback",
+    "url": "http://127.0.0.1:8000/contact/",
+    "wordCount": 75
+  },
+  {
+    "date": "2026-09-01",
+    "description": "How to contribute study guides, memory diagrams, and corrections.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Contributing to CS50x Hub",
+    "url": "http://127.0.0.1:8000/contributing/",
+    "wordCount": 20
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Detailed breakdowns of all 11 weeks of Harvard CS50x from computational thinking in C to Python, SQL, and Flask.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "CS50x Curriculum: Comprehensive Week-by-Week Syllabus",
+    "url": "http://127.0.0.1:8000/curriculum/",
+    "wordCount": 200
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Guidelines on ethical study habits and adherence to Harvard CS50's Academic Honesty policy.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Academic Honesty & Ethical Collaboration Policy",
+    "url": "http://127.0.0.1:8000/ethics/",
+    "wordCount": 73
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Answers to common questions about Harvard CS50x certificate requirements, pace, and tools.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Frequently Asked Questions (FAQ): CS50x Hub",
+    "url": "http://127.0.0.1:8000/faqs/",
+    "wordCount": 162
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Practical engineering guides on diagnosing segmentation faults, memory leaks, and pointer arithmetic.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Developer Guides: Valgrind, GDB & Memory Management",
+    "url": "http://127.0.0.1:8000/guides/",
+    "wordCount": 195
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for Harvard CS50x students.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "CS50x Hub: Harvard CS50 Complete Companion & Study Guides",
+    "url": "http://127.0.0.1:8000/index.html",
+    "wordCount": 676
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Details on native Rust static site generation.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Made with Static Site Generator (SSG)",
+    "url": "http://127.0.0.1:8000/made-with-ssg/",
+    "wordCount": 22
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Service worker offline fallback page.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Offline Access: CS50x Hub",
+    "url": "http://127.0.0.1:8000/offline/",
+    "wordCount": 15
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Privacy policy declaring zero tracking cookies and completely local computation.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Privacy Policy: Zero-Cookie Architecture",
+    "url": "http://127.0.0.1:8000/privacy/",
+    "wordCount": 20
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Conceptual strategies, algorithmic pseudocode, and debugging approaches for CS50x problem sets.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Problem Set Guidance & Conceptual Strategies",
+    "url": "http://127.0.0.1:8000/problem-sets/",
+    "wordCount": 219
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Terms governing CS50x Hub under Apache-2.0 and MIT licenses.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Terms of Use & Open Source License",
+    "url": "http://127.0.0.1:8000/terms/",
+    "wordCount": 30
+  },
+  {
+    "date": "2026-09-01",
+    "description": "Thank you for your message.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Thank You | CS50x Hub",
+    "url": "http://127.0.0.1:8000/thanks/",
+    "wordCount": 24
+  }
+]

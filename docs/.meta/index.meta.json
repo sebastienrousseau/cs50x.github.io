@@ -1,0 +1,17 @@
+{
+  "author": "Sebastien Rousseau",
+  "banner": "https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp",
+  "banner_alt": "CS50x Hub — Harvard CS50 Complete Companion & Study Guides",
+  "date": "2026-09-01",
+  "description": "Comprehensive problem set breakdowns, memory management guides, and algorithmic walkthroughs for Harvard CS50x students.",
+  "keywords": "CS50x, Harvard CS50, CS50 problem sets, CS50 memory C, CS50 python SQL, CS50 speller, CS50 finance",
+  "language": "en-GB",
+  "layout": "index",
+  "logo": "https://cloudcdn.pro/cmn/v1/logos/cmn.svg",
+  "name": "CS50x Hub",
+  "permalink": "https://cs50x.com/",
+  "reading_time": 3,
+  "short_name": "cs50x",
+  "title": "CS50x Hub: Harvard CS50 Complete Companion & Study Guides",
+  "word_count": 676
+}

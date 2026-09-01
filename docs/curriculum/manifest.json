@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Detailed breakdowns of all 11 weeks of Harvard CS50x from computational thinking in C to Python, SQL, and Flask.",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "CS50x Hub",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "cs50x",
+  "start_url": ".",
+  "theme_color": null
+}

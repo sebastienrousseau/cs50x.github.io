@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cs50x.com/changelog/index.html/sitemap.xml

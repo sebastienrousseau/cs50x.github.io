@@ -1,0 +1,17 @@
+{
+  "author": "Sebastien Rousseau",
+  "banner": "https://cloudcdn.pro/stocks/images/quantum-computer-room-1200.webp",
+  "banner_alt": "CS50x Hub — Harvard CS50 Complete Companion & Study Guides",
+  "date": "2026-09-01",
+  "description": "Answers to common questions about Harvard CS50x certificate requirements, pace, and tools.",
+  "keywords": "CS50x FAQ, Harvard CS50 certificate questions",
+  "language": "en-GB",
+  "layout": "faqs",
+  "logo": "https://cloudcdn.pro/cmn/v1/logos/cmn.svg",
+  "name": "CS50x Hub",
+  "permalink": "https://cs50x.com/faqs/index.html",
+  "reading_time": 1,
+  "short_name": "cs50x",
+  "title": "Frequently Asked Questions (FAQ): CS50x Hub",
+  "word_count": 162
+}
